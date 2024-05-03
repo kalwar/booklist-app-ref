@@ -28,5 +28,5 @@ This project uses Symfony 7 for creating, editing and deleting books utilzing da
 
 ## Reference
 
-Use it as reference material  
+Use solely for reference material only
 
