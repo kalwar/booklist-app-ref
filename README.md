@@ -20,16 +20,9 @@ This project uses Symfony 7 for creating, editing and deleting books utilzing da
 * Hit localhost:8007
 * You will see warning message like this: `Warning: require_once(/var/www/web/vendor/autoload_runtime.php): Failed to open stream: No such file or directory in /var/www/web/public/index.php on line 5 .. Fatal error ... etc`
 * Run inside web folder `composer install`
-* If you see .env file missing, you can copy .env.example to .env
-  
+* If you see .env file missing, you can copy env.example to .env
+* You may also have to do database migration inside docker to see app working
 
-### Executing program
-
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
 
 ## Reference
 
