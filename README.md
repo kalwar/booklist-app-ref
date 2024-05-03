@@ -15,10 +15,13 @@ This project uses Symfony 7 for creating, editing and deleting books utilzing da
 ### Installing
 
 * Clone the repo to your computer
-* Go to Symfony-MAMP folder and start a new web project by using this command: `symfony new web`
-* Make sure go hit http://localhost:8007 and make sure Symfony starter kit is working
-* Copy paste content of booklist cloned to "web" folder
-* 
+* Go to Symfony-MAMP folder and copy "booklist-app-ref" to root folder of Symfony-MAMP
+* Rename "booklist-app-ref" to "web" folder
+* Hit localhost:8007
+* You will see warning message like this: `Warning: require_once(/var/www/web/vendor/autoload_runtime.php): Failed to open stream: No such file or directory in /var/www/web/public/index.php on line 5 .. Fatal error ... etc`
+* Run inside web folder `composer install`
+* If you see .env file missing, you can copy .env.example to .env
+  
 
 ### Executing program
 
