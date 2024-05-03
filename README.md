@@ -12,7 +12,7 @@ This project uses Symfony 7 for creating, editing and deleting books utilzing da
 
 ### Dependencies
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
+* This repo requires you have [Symfony-MAMP](https://github.com/kalwar/Symfony-MAMP) installed and working in your local computer
 
 ### Installing
 
