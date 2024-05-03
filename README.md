@@ -2,6 +2,8 @@
 
 Simple Symfony 7 booklist project for reference
 
+![alt text](https://github.com/kalwar/booklist-app-ref/blob/main/BookIndex.png?raw=true)
+
 ## Description
 
 This project uses Symfony 7 for creating, editing and deleting books utilzing database concepts of Symfony 7.
